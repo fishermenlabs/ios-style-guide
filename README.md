@@ -1,5 +1,7 @@
 # iOS Style Guide
-Most of these guides are pulled from other sources we agree with, GitHub, Google, etc.... so thanks to them.  In-general, use common sense and be clean and organized.  Write your code knowing that someone else is going to have to read it, and understand it.
+Most of these guides are pulled from other sources we agree with, [GitHub](https://github.com/github/swift-style-guide), [Google](https://google.github.io/styleguide/objcguide.xml), [etc](https://github.com/raywenderlich/objective-c-style-guide)... so thanks to them.  In-general, use common sense and be clean and organized.  Write your code knowing that someone else is going to have to read it, and understand it.
+
+![alt text](http://i.imgur.com/T0gOgrX.png "DON'T BE STUPID")
 
 Everything is up for discussion.  If you have any recommendations or would like to have something changed, message arton or kevinw on Slack, file an issue, or submit a pull request.
 
