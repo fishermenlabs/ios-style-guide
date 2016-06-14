@@ -86,6 +86,10 @@ Use descriptive names with camel case for classes, methods, variables, etc. Clas
 * [Types](#types)
 
 # Swift Style Guide
+
+## Read the official design guide first
+[Swift Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
+
 ## Whitespace
 #### Use whitespace around operator definitions
 
