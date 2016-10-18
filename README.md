@@ -10,6 +10,7 @@ Everything is up for discussion.  If you have any recommendations or would like 
  * Tabs are recommended over spaces, but can be decided on a per-project basis.
  * End files with a newline.
  * Make liberal use of vertical whitespace to divide code into logical chunks.
+   * Avoid excessive chunks of vertical whitespace (typically more than 2 lines)
  * Don’t leave trailing whitespace.
    * Not even leading indentation on blank lines.
 
